@@ -11,20 +11,18 @@ Console Games: Simple, engaging terminal-based games suitable for quick runs (e.
 Beginner Friendly: Ideal resource for those learning Python, demonstrating core concepts like loops, conditional statements, and file handling.
 
 🚀 How to Run the Programs
-
 You will need Python 3 installed on your system to execute any of these scripts.
 
 1 Clone the Repository:
-  
-  Bash:-
-  
-  git clone https://github.com/Dilnoor19/The-Python-Toolbox/tree/main
+
+Bash
+
+git clone [https://github.com/Dilnoor19/The-Python-Toolbox/tree/main]
 
 2 Execute a Script: Navigate into the cloned directory and run any file using the python command:
 
-  Bash:-
-  
-  python 01_calculator.py
-  # or
-  python 10_Adventure-game.py
+Bash
 
+python 01_calculator.py
+# or
+python 10_Adventure-game.py
