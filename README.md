@@ -1,7 +1,9 @@
 🐍 The-Python-Toolbox
+
 This repository houses a collection of small-scale Python scripts and programs developed primarily for learning and practicing fundamental and intermediate Python concepts. The collection features a mix of useful utilities and simple terminal-based games.
 
 ✨ Key Features
+
 Mini Utilities: Scripts designed for common, everyday tasks (e.g., basic calculators, to-do lists, password generators).
 
 Console Games: Simple, engaging terminal-based games suitable for quick runs (e.g., Stone-Paper-Scissors, Number Guessing).
