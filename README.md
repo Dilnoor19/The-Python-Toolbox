@@ -13,14 +13,13 @@ You will need Python 3 installed on your system to execute any of these scripts.
 
 1 Clone the Repository:
   
-  Bash
-  
-  git clone [Your Repository URL Here]
+  Bash:-
+  git clone https://github.com/Dilnoor19/The-Python-Toolbox/tree/main
 
 2 Execute a Script: Navigate into the cloned directory and run any file using the python command:
 
-Bash
+  Bash:-
+  python 01_calculator.py
+  # or
+  python 10_Adventure-game.py
 
-python 01_calculator.py
-# or
-python 10_Adventure-game.py
